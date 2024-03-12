@@ -1,0 +1,329 @@
+.chor{
+    width: 850px;
+    height: 670px;
+    background-color: #4D433F;
+    border-radius: 16px;
+    position: absolute;
+    margin-top: -1400px;
+    margin-left: 120px;
+}
+.check145{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 310px;
+}
+.cel{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.cvbn{
+    color: white;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.cwer{
+    color: white;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.ssn{
+    color: white;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.qxcv{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 350px;
+}
+.polkj{
+    color: white;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.one{
+    color: white;
+    position: absolute;
+    margin-top: 240px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px;
+    
+}
+.three{
+    color: white;
+    position: absolute;
+    margin-top: 280px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px;
+}
+.two{
+    color: white;
+    position: absolute;
+    margin-top: 260px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px;
+}
+.four{
+    color: white;
+    position: absolute;
+    margin-top: 300px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px;
+}
+.five{
+    color: white;
+    position: absolute;
+    margin-top: 320px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px;
+}
+.brod{
+    color: white;
+    position: absolute;
+    margin-top: 340px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+.brod2{
+    color: white;
+    position: absolute;
+    margin-top: 360px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+.brod3{
+    color: white;
+    position: absolute;
+    margin-top: 380px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+.brod4{
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+
+.format178{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 330px;
+    
+}
+.online2314{
+    color: white;
+    position: absolute;
+    margin-top: 460px;
+    font-weight: 300;
+    margin-left: 360px;
+    font-size: 13px; 
+}
+.brod5{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 280px;
+}
+.brod6{
+    color: white;
+    position: absolute;
+    margin-top: 540px;
+    font-weight: 300;
+    margin-left: 190px;
+    font-size: 13px; 
+}
+.brod7{
+    color: white;
+    position: absolute;
+    margin-top: 560px;
+    font-weight: 300;
+    margin-left: 170px;
+    font-size: 13px; 
+}
+@media (max-width: 431px) {
+    .chor {
+        width: 406px;
+        height: 1130px;
+        position: absolute;
+        margin-left: 12px;
+        margin-top: 3820px;
+    }
+    .check145{
+        font-size: 32px;
+        position: absolute;
+        white-space: nowrap;
+        margin-top: 24px;
+        margin-left: 35px;
+        
+    }
+    .cel{
+        font-size: 20px;
+        margin-left: 117px;
+        position: absolute;
+        margin-top: 74px;
+        
+    }
+    .cvbn{
+        position: absolute;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 114px;
+        
+    }
+    .cwer{
+        position: absolute;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 164px;
+       
+    }
+    .ssn{
+        position: absolute;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 214px;
+        
+    }
+    .qxcv{
+        position: absolute;
+        font-size: 20px;
+        white-space: nowrap;
+        margin-left: 117px;
+        margin-top: 270px;
+        
+    }
+    .polkj{
+        position: absolute;
+        margin-left: 35px;
+        margin-top: 306px;
+        font-size: 18px;
+        
+    }
+    .two{
+        position: absolute;
+        margin-top: 376px;
+        font-size: 15px;
+        margin-left: 35px;
+       
+    }
+    .three{
+        position: absolute;
+        margin-top: 420px;
+        font-size: 15px;
+        margin-left: 35px;
+        
+    }
+    .four{
+        position: absolute;
+        margin-top: 460px;
+        font-size: 18px;
+        margin-left: 35px;
+        
+    }
+    .bet{
+        
+        position: absolute;
+        margin-left: 377px;
+        width: 30px;
+        height: 30px;
+        margin-top: 10px;
+        
+    }
+    .five{
+        position: absolute;
+        margin-top: 530px;
+        font-size: 14,99px;
+        margin-left: 35px;
+        
+    }
+    .brod{
+        position: absolute;
+        margin-top: 560px;
+        margin-left: 35px;
+       
+    }
+    .brod2{
+        position: absolute;
+        margin-top: 580px;
+        font-size: 18px;
+        margin-left: 35px;
+        
+    }
+    .brod3{
+        position: absolute;
+        margin-top: 660px;
+        font-size: 18px;
+        margin-left: 35px;
+        
+    }
+    .format178{
+        font-size: 20px;
+        position: absolute;
+        margin-left: 94px;
+        margin-top: 722px;
+       
+    }
+    .online2314{
+        font-size: 18px;
+        position: absolute;
+        margin-left: 33px;
+        margin-top: 760px;
+       
+    }
+    .brod5{
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 830px;
+        
+    }
+    .brod6{
+        position: absolute;
+        margin-left: 33px;
+        font-size: 18px;
+        margin-top: 870px;
+        font-weight: 300;
+        
+    }
+    .brod7{
+        
+            position: absolute;
+            margin-left: 33px;
+            font-size: 20px;
+            margin-top: 950px;
+            font-weight: 300;
+            
+    }
+}

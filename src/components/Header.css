@@ -1,0 +1,73 @@
+.Header{
+    display: flex;
+    gap: 70px;
+    margin-top: 60px;
+    margin-left: 430px;
+}
+.df:hover{
+ color: #CFAA8E;
+ cursor: pointer;
+
+}
+.bag:hover{
+    color: #CFAA8E;
+    cursor: pointer;
+   
+   }
+   .rot:hover{
+    color: #CFAA8E;
+    cursor: pointer;
+   
+   }
+   .fou:hover{
+    color: #CFAA8E;
+    cursor: pointer;
+   
+   }
+   .got:hover{
+    color: #CFAA8E;
+    cursor: pointer;
+   
+   }
+   .product{
+    font-size: 28px;
+    color: black;
+    position: absolute;
+   margin-left: -300px;
+   margin-top: -40px;
+   }
+   .rog{
+    font-size: 28px;
+    color: black;
+    position: absolute;
+   margin-left: -300px;
+   margin-top: -10px;
+   
+   }
+   .pkuas{
+    display: none;
+   }
+   @media (max-width:430px){
+    .product{
+        position: absolute;
+      margin-left: -495px;
+    }
+    .rog{
+        position: absolute;
+        margin-left: -495px;
+    }
+   
+    .df, .bag, .rot, .fou, .got {
+        display: none;
+      }
+      
+      .pkuas {
+        display: block;
+        width: 39px;
+        height: 39px;
+       margin-left: -240px;
+      
+      }
+     
+   }
+  

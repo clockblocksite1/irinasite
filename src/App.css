@@ -1,0 +1,2373 @@
+
+.bg{
+    font-size: 67px;
+    margin-top: 105px;
+    margin-left:180px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: -10px;
+    padding-top: 60px;
+}
+.bv{
+   
+    color:Gray ;
+    font-size: 12px;
+}
+.nt{
+    color:Gray ;
+    font-size: 12px;
+}
+.re{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 190px;
+   
+}
+.j{
+    position: absolute;
+    margin-top: -30px;
+}
+.star{
+    width: 37px;
+    height: 37px;
+    margin-top: -55px;
+    position: absolute;
+    margin-left: 165px;
+}
+.star:hover {
+    transform: rotate(360deg);
+    cursor: pointer;
+   transition: transform 2.3s ease;
+}
+.hs{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 190px;
+    width: 142px;
+    height: 40px;
+    background-color: #442D25;
+    color: #FFFFFF;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 40px;
+    
+}
+.hs:hover{
+    background-color: #CFAA8E;
+    transition: all 1.5s;
+}
+.hs .b{
+    padding-left: 5px;
+   color: white;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 10px;
+}
+.mn {
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 50px;
+    position: absolute;
+    margin-bottom: 100px;
+   
+}
+.tr{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 250px;
+    position: absolute;
+}
+.ew{
+    
+    margin-left: 690px;
+    margin-top: 50px;
+
+}
+.upig{
+    width: 282px;
+    height: 110px;
+  }
+.eq{
+   font-size: 50px;
+   position: absolute;
+   margin-top: 30px;
+   width: 72px;
+   margin-left: 180px;
+   background-color: #CFAA8E;
+   
+}
+.bnm2{
+    font-size: 20px;
+    margin-left: 24px;
+}
+.bnm3{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+.tw{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 50px;
+    position: absolute;
+    margin-bottom: 100px;
+}
+.sd{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 250px;
+    position: absolute;
+}
+.wt{
+    
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.down{
+    width: 282px;
+    height: 110px;
+}
+.ob{
+    font-size: 67px;
+    font-weight: 500;
+    color: #000000;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.mne{
+    font-size: 67px;
+    font-weight: 500;
+    color: #442D25;
+    margin-left: 330px;
+    position: absolute;
+    margin-top: -90px;
+
+
+}
+
+.photo{
+    width: 295px;
+    height:468px;
+    background: #442D25;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+.wet{
+    width: 295px;
+    height: 480px;
+    position: absolute;
+}
+.zot {
+  background-color: #FFFFFF80 ;
+  width: 180px;
+  height: 55px;
+  color: #000000;
+  border-radius: 24px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 430px;
+  position: absolute;
+  margin-left: 60px;
+}
+.ert{
+    font-size: 10px;
+    color: #000000B2;
+    font-weight: 300px;
+    margin-top: 30px;
+   margin-left: 20px;
+    position: absolute;
+}
+.cae{
+    margin-left: 20px;
+    margin-top: 10px;
+    position: absolute;
+}
+.sot{
+    width: 440px;
+    height: 150px;
+    background-color: #442D25;
+    color: #FFFFFF;
+    border-radius: 28px;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 530px;
+   margin-top: -460px;
+   font-weight: 300;
+
+}
+.ren{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 14px;
+    font: Roboto;
+   
+}
+.hoert{
+    font-size: 13px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.clen{
+    font-size: 14px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.qac{
+    font-size: 14px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.dfg{
+    font-size: 14px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.kol{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -110px;
+}
+.i{
+    color: #000000;
+   font-size: 24px;
+    position: absolute;
+    margin-left: 500px;
+    font-weight: 500;
+    margin-top: -250px;
+    margin-left: 540px;
+}
+.dva{
+    color: #000000;
+   font-size: 67px;
+    position: absolute;
+    margin-left: 500px;
+    font-weight: 700;
+    margin-top: -220px;
+    margin-left: 530px;
+    font: Roboto;
+}
+.print{
+    position: absolute;
+    font-weight: 700;
+    margin-left: 530px;
+    margin-top: -150px;
+}
+.wda{
+    position: absolute;
+   font-weight: 500;
+    margin-left: 530px;
+    margin-top: -120px;
+    font-size: 27px;
+}
+.wsv{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -80px;
+    font-size: 14px;
+}
+.go{
+    color: #000000;
+   font-size: 67px;
+    margin-left: 180px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.cot{
+    color: #CFAA8E;
+    font-size: 67px;
+     margin-left: 450px;
+     font-weight: 700;
+     position: absolute;
+     margin-top: -90px;
+     
+}
+.ocl{
+    color: #000000;
+   font-size: 67px;
+    margin-left: 490px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -90px;
+}
+.block{
+    width: 254px;
+    height: 232px;
+    background-color: #CFAA8E;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.wyu{
+    margin-left: 80px;
+    font-size: 13px;
+}
+.asdf{
+margin-left: 20px;
+margin-top: 20px;
+font-weight: 500;
+font-size: 21px;
+}
+.bnm{
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 21px;
+}
+.cxq{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.block2{
+    width: 254px;
+    height: 232px;
+    background-color: #442D25;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+.block3{
+    width: 254px;
+    height: 232px;
+    background-color: #CFAA8E;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 50px;
+}
+.gds{
+    margin-left: 180px;
+    font-size: 14px;
+}
+.roma{
+    color: #000000;
+   font-size: 67px;
+    font-weight: 700;
+    position: absolute;
+   margin-left: 180px;
+    margin-top: 330px;
+
+}
+.pooc{
+    margin-left: 480px;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    margin-top: 420px;
+    gap: 40px;
+    color: #000000B2;
+}
+.wero{
+    width: 224px;
+    height: 302px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 180px;
+}
+.cotew{
+    position: absolute;
+    width: 76px;
+    height: 190px;
+    margin-left: 115px;
+    border-radius: 14px;
+    margin-top: 24px;
+    border-radius: 4px;
+}
+.drok{
+    position: absolute;
+    width: 76px;
+    height: 190px;
+    border-radius: 5px;
+    margin-top: 24px;
+    margin-left: 40px;
+} 
+.wrt{
+    display: flex;
+    position: absolute;
+    margin-top: 230px;
+    gap: 20px;
+    margin-left: 40px;
+    font-size: 14px;
+
+}
+.btn{
+    position: absolute;
+    margin-top: 30px;
+    background-color: #FFFFFF;
+    width: 147px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 14px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+}
+tr{
+    color: #000000;
+    text-decoration: underline;
+}
+.rtu{
+    width: 224px;
+    height: 302px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 440px;
+    white-space: nowrap;
+}
+.bagi{
+    width: 224px;
+    height: 302px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 700px;
+}
+.weryu{
+    color: #000000;
+   font-size: 67px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 820px;
+    margin-left: 180px;
+}
+.rogot{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+    background-color: #442D25;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 950px;
+}
+.text{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 17px;
+    margin-top: -1px;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.text2{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 85px;
+    font-size: 13px;
+}
+.qerdsds{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 40px;
+    font-size: 17px;
+}
+.profgh{
+    color: #FFFFFF;
+    margin-top: 90px;
+    margin-left: 65px;
+    font-size: 13px;
+}
+.stoit{
+    color: #FFFFFF;
+    position: absolute;
+   margin-top: 15px;
+    margin-left: 65px;
+    font-size: 17px;
+}
+.trist{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 85px;
+}
+.cored{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 85px;
+
+}
+.podrob{
+    background-color: #442D25;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1180px;
+    margin-left: 180px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.kolou{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 195px;
+}
+.kolou2{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 220px;
+}
+.kolou3{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 245px;
+}
+.kolou4{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 270px;
+}
+.kolou5{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 295px;
+}
+.kolou6{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 320px;
+}
+.kolou7{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 345px;
+}
+.kolou8{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 370px;
+}
+.rogot2{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 435px;
+    margin-top: 950px;
+}
+.kolou1{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 450px;
+    
+}
+.kolou21{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 475px;
+   
+}
+.kolou31{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 500px;
+}
+.kolou41{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 525px;
+}
+.kolou51{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 550px;
+}
+.kolou61{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 575px;
+}
+.kolou71{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 600px;
+}
+.kolou81{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 625px;
+}
+.podrob2{
+    background-color:#CFAA8E;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1180px;
+    margin-left: 435px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.rogot3{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+    background-color: #442D25;
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 950px;
+}
+.podrob3{
+    background-color: #442D25;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1180px;
+    margin-left: 690px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.kolou22{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 705px;
+}
+.kolou23{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 730px;
+}
+.kolou33{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 755px;
+}
+.kolou43{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 780px;
+}
+.kolou53{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 805px;
+}
+.kolou63{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 830px;
+}
+.kolou73{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 855px;
+}
+.kolou83{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1172px;
+    margin-left: 880px;
+}
+.rogot4{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+   background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 1290px;
+}
+.text23{
+    position: absolute;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.dronr{
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+.rock{
+    color: #FFFFFF;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.deni{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 60px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.denik{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 60px;
+    font-size: 18px;
+    
+}
+.free{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 75px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.tire{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 75px;
+}
+.pringle{
+    background-color: #CFAA8E;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 180px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.kolou101{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 195px;
+    
+}
+.kolou102{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 220px;
+}
+.kolou103{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 245px;
+}
+.kolou104{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 270px;
+}
+.kolou105{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 295px;
+}
+.kolou106{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 320px;
+}
+.kolou107{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 345px;
+}
+.kolou108{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 370px;
+}
+.rogot23{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+  background-color: #442D25;
+    position: absolute;
+    margin-left: 435px;
+    margin-top: 1290px;
+}
+.text233{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.dronr23{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 13px;
+    position: absolute;
+    margin-top: 44px;
+    margin-left: 30px;
+    white-space: nowrap;
+}
+.dronr234{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 13px;
+    position: absolute;
+    margin-top: 44px;
+    margin-left: 80px;
+    white-space: nowrap;
+}
+.rock23{
+    color: #FFFFFF;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 35px;
+}
+.deni32{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 13px;
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 70px;
+}
+.denik233{
+    color: #FFFFFF;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 70px;
+}
+.kolou1011{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 450px;
+   
+}
+.kolou1021{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 475px;
+}
+.kolou1031{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 500px;
+}
+.kolou1041{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 525px;
+}
+.kolou1051{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 550px;
+}
+.kolou1061{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 575px;
+}
+.kolou1071{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 600px;
+}
+.kolou1081{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 625px;
+}
+.pringle3242{
+    background-color: #442D25;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 435px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.free323{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 90px;
+}
+.tire3324{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 90px;
+}
+.rogot232{
+    width: 224px;
+    height: 232px;
+    border-radius: 20px;
+  background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 1290px;
+}
+.text23334{
+    font-size: 16px;
+    position: absolute;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.text219{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 14px;
+    font-weight: 300;
+}
+.pringle3242134{
+   background-color: #CFAA8E;
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 690px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 16px;
+}
+.kolou101123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 705px;
+}
+.kolou102123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 730px;
+}
+.kolou103123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 755px;
+}
+.kolou104123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 780px;
+}
+.kolou105123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 805px;
+}
+.kolou106123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 830px;
+}
+.kolou107123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 855px;
+}
+.kolou108123{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 1512px;
+    margin-left: 880px;
+}
+.pocol{
+    color: #000000;
+    font-size: 67px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 1620px;
+    margin-left: 180px;
+}
+.telega {
+    background-color: #442D25;
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 1720px;
+    margin-left: 180px;
+}
+
+.telegr {
+    width: 37px; 
+    height: 37px; 
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.ivanova{
+    color: #FFFFFF;
+    width: 155px;
+    height: 60px;
+    background-color: #442D25;
+    margin-top: 1720px;
+    border-radius:13px ;
+    margin-left: 250px;
+    text-align: center;
+    line-height: 60px
+    
+}
+.telephone {
+    color: #FFFFFF;
+    width: 37px; 
+    height: 37px; 
+}
+
+.wraping {
+    background-color: #442D25;
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 430px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.nambelou{
+    color: #FFFFFF;
+    width: 155px;
+    height: 60px;
+    background-color: #442D25;
+    margin-top: -60px;
+    border-radius:13px ;
+    margin-left: 500px;
+    text-align: center;
+    line-height: 60px
+}
+.graving{
+    background-color: #442D25;
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 680px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.watsap{
+    color: #FFFFFF;
+    
+    width: 34px; 
+    height: 34px; 
+}
+.salor{
+    color: #FFFFFF;
+    width: 155px;
+    height: 60px;
+    background-color: #442D25;
+    margin-top: -60px;
+    border-radius:13px ;
+    margin-left: 750px;
+    text-align: center;
+    line-height: 60px
+}
+.bog{
+    background-color: #442D25;
+    width: 1328px;
+    height: 392px;
+    margin-top: 150px;
+}
+.random{
+    position: absolute;
+    margin-left: 420px;
+    font-size: 13px;
+    margin-top: 40px;
+}
+.rodas{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 24px;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+.homed{
+    color: #FFFFFF;
+    font-size: 24px;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 125px;
+}
+.copy{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 125px;
+
+}
+.all{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 125px;
+
+}
+.didsa{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 730px;
+    margin-top: 125px;
+}
+.gorod{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 205px;
+}
+.arrow{
+    width: 123px;
+    height: 36px;
+    position: absolute;
+    margin-top: -2910px;
+    margin-left: 425px;
+    border: 4px;
+}
+
+  .telega:hover{
+ background-color: #CFAA8E;
+ transition: 1.5s;
+ transform: rotate(360deg);
+ cursor: pointer;
+  }
+  .ivanova:hover{
+    background-color: #CFAA8E;
+ transition: 1.5s;
+ cursor: pointer;
+  }
+  .wraping:hover{
+    background-color: #CFAA8E;
+ transition: 1.5s;
+ transform: rotate(360deg);
+ cursor: pointer;
+  }
+  .nambelou:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    cursor: pointer;
+  }
+  .graving:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    transform: rotate(360deg);
+    cursor: pointer;
+  }
+  .salor:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    cursor: pointer;
+  }
+  .hs:active {
+    transform: translateY(3px);
+  }
+  .btn:hover{
+    background-color: #442D25;
+    transition: all 2s;
+  }
+  .up13{
+    display: none;
+  }
+  @media (max-width:440px){
+    .bg{
+        font-size: 48px;
+        position: absolute;
+      margin-top: 5px;
+        margin-left: 89px;
+      }
+      .houm{
+        margin-left: 70px;
+        margin-top: -70px;
+        position: absolute;
+      }
+      .star{
+        width: 27px;
+        height: 27px;
+        margin-top: -45px;
+        position: absolute;
+        margin-left: 190px;
+      }
+      .hs{
+        display: none;
+      }
+      .bv{
+        position: absolute;
+        margin-top: -110px;
+        white-space: nowrap;
+        margin-left: 15px;
+        
+        
+      }
+      .dronr234{
+        position: absolute;
+        font-size: 18px;
+        margin-top: 64px;
+        margin-left: 137px;
+      }
+      .nt{
+        position: absolute;
+        margin-top: -100px;
+        white-space: nowrap;
+        margin-left: 40px;
+      }
+      .upig{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: -490px;
+        width: 316px;
+        height: 123px;
+      }
+      .bnm2{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 197px;
+        font-weight: 600;
+      }
+      .bnm3{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 213px;
+        font-weight: 600;
+      }
+     .down{
+        position: absolute;
+        margin-top: 220px;
+        margin-left: -490px;
+        width: 316px;
+        height: 123px;
+     }
+     .photo{
+      position: absolute;
+      margin-top: 450px;
+      width: 406px;
+      height: 468px;
+      margin-left: 12px;
+     }
+     .wet{
+        width: 406px;
+        height: 470px;
+        position: absolute;
+      
+    
+     }
+    
+     .zot{
+        width: 261px;
+        height: 84px;
+        position: absolute;
+        margin-top: 390px;
+        margin-left: 70px;
+        
+     }
+     .cae{
+        font-size: 24px;
+     }
+     .ert{
+        font-size: 16px;
+        position: absolute;
+        margin-top:40px ;
+     }
+     .ob{
+        font-size: 48px;
+        position: absolute;
+        margin-top: 370px;
+        margin-left: 12px;
+     }
+     .mne{
+        font-size: 48px;
+        color: #CFAA8E;
+        position: absolute;
+        margin-top: 370px;
+        margin-left: 110px;
+     }
+     .sot{
+        position: absolute;
+        margin-top: 940px;
+        margin-left: 12px;
+        width: 406px;
+        height: 176px;
+        font-size: 16px;
+     }
+     .wsv{
+        display: none;
+     }
+     .kol{
+        position: absolute;
+        margin-left: 370px;
+     }
+     .i{
+        position: absolute;
+        margin-top: 1150px;
+        white-space: nowrap;
+        font-size: 24px;
+        margin-left: 172px;
+     }
+     .dva{
+        position: absolute;
+        margin-top: 1180px;
+        font-size: 48px;
+        margin-left: 174px;
+     }
+     .print{
+        position: absolute;
+        margin-top: 1230px;
+        margin-left: 174px;
+        font-size: 10px;
+        font-weight: 900;
+     }
+     .wda{
+        position: absolute;
+        margin-top: 1230px;
+        white-space: nowrap;
+        margin-left: 47px;
+        font-size: 24px;
+     }
+     .go{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1300px;
+        margin-left: 12px;
+     }
+     .cot{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1300px;
+        margin-left: 175px;
+     }
+     .gds{
+        position: absolute;
+        margin-top: 1350px;
+        margin-left: 12px;
+        font-size: 16px;
+     }
+     .ocl{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1300px;
+        margin-left: 200px;
+     }
+     .block{
+        position: absolute;
+        margin-top: 1400px;
+        width: 406px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .asdf{
+        font-size: 20px;
+     }
+     .bnm{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 140px;
+     }
+     .block2{
+        position: absolute;
+        margin-top: 1580px;
+        width: 406px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .block3{
+        position: absolute;
+        margin-top: 1760px;
+        width: 406px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .roma{
+       font-size: 48px;
+       position: absolute;
+       margin-top: 1950px;
+       margin-left: 12px;
+     }
+     .pooc{
+       position: absolute;
+       margin-top: 2020px;
+       margin-left: 121px;
+       gap: 30px;
+     }
+     .wero{
+        position: absolute;
+        margin-top: 2050px;
+        width: 386px;
+        height: 552px;
+        margin-left: 22px;
+     }
+     .cotew{
+        width: 153px;
+        height: 390px;
+        position: absolute;
+        margin-left: 185px;
+     }
+     .drok{
+        width: 153px;
+        height: 390px;
+        position: absolute;
+     }
+     .log{
+        position: absolute;
+        font-size: 24px;
+        margin-top: 200px;
+        white-space: nowrap;
+        margin-left: 20px;
+   }
+   .hart{
+    position: absolute;
+    font-size: 24px;
+    margin-top: 200px;
+    white-space: nowrap;
+    margin-left: 160px;
+ }
+ .btn{
+    width: 257px;
+    height: 57px;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+ }
+ .rtu{
+    position: absolute;
+    margin-top: 2620px;
+    width: 386px;
+    height: 552px;
+    margin-left: 22px;
+ }
+ .bagi{
+    position: absolute;
+    margin-top: 3190px;
+    width: 386px;
+    height: 552px;
+    margin-left: 22px;
+ }
+ .weryu{
+    font-size: 48px;
+    position: absolute;
+    margin-top: 3750px;
+    margin-left: 15px;
+ }
+ 
+ .text{
+    font-size: 32px;
+    margin-left: 85px;
+ }
+ .rogot{
+    width: 386px;
+    height: 400px;
+    position: absolute;
+    margin-top: 3820px;
+    margin-left: 22px;
+ }
+ .text2{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 60px;
+ }
+ .qerdsds{
+    font-size: 32px;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 65px;
+ }
+ .profgh{
+    font-size: 24px;
+    position: absolute;
+    margin-left: 104px;
+    font-weight: 300;
+    margin-top: 168px;
+
+ }
+ .stoit{
+    position: absolute;
+    margin-left: 114px;
+    font-size: 32px;
+    margin-top: 232px;
+ }
+ .trist{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 272px;
+    font-size: 24px;
+    font-weight: 300;
+ }
+ .cored{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 288px;
+    font-size: 23px;
+ }
+ .podrob{
+    position: absolute;
+    margin-top: 4218px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou{
+     
+    position: absolute;
+    margin-top: 4210px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+ }
+ .kolou2{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou3{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou4{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou5{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+    
+ }
+ .kolou6{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+    
+ }
+ .kolou7{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 316px;
+    width: 24px;
+    height: 24px;
+   
+ }
+ .kolou8{
+    position: absolute;
+    margin-top: 4210px;
+    margin-left: 361px;
+    width: 24px;
+    height: 24px;
+ }
+ .rogot2{
+    position: absolute;
+    margin-top: 4380px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .podrob2{
+    position: absolute;
+    margin-top: 4778px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou1{
+   
+    position: absolute;
+    margin-top: 4770px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+ }
+ .kolou21{
+    position: absolute;
+    margin-top: 4770px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou31{
+    position: absolute;
+    margin-top: 4770px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou41{
+    position: absolute;
+    margin-top: 4770px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou51{
+    position: absolute;
+    margin-top: 4770px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou61{
+    position: absolute;
+    margin-top: 4770px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou71{
+    position: absolute;
+      margin-top: 4770px;
+      margin-left: 316px;
+      width: 24px;
+      height: 24px;
+   }
+   .kolou81{
+      position: absolute;
+      margin-top: 4770px;
+      margin-left: 361px;
+      width: 24px;
+      height: 24px;
+     
+   }
+   .rogot3{
+    position: absolute;
+    margin-top: 4940px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 22px; 
+}
+.text219{
+    font-size: 24px;
+    margin-top: 64px;
+    margin-left: 70px;
+}
+ .podrob3{
+    position: absolute;
+    margin-top: 5338px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou22{
+   
+    position: absolute;
+    margin-top: 5330px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+    
+ }
+ .kolou23{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou33{
+    position: absolute;
+   
+    margin-top: 5330px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou43{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou53{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou63{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou73{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 316px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou83{
+    position: absolute;
+    margin-top: 5330px;
+    margin-left: 361px;
+    width: 24px;
+    height: 24px;
+   
+ }
+ .rogot4{
+    position: absolute;
+    margin-top: 5500px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 22px; 
+ }
+ .text23{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 27px;
+ }
+ .dronr{
+    font-size: 24px;
+    margin-left: 70px;
+    margin-top: 64px;
+    font-weight: 300;
+ }
+ .rock{
+    font-size: 32px;
+    margin-top: 128px;
+    margin-left: 65px;
+ }
+ .deni{
+    font-size: 24px;
+    margin-left: 107px;
+    margin-top: 168px;
+ }
+ .denik{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 114px;
+    margin-top: 232px;
+ }
+ .free{
+    font-weight: 300;
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 272px;
+    font-size: 24px;
+ }
+ .tire{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 282px;
+
+ }
+ .pringle{
+    position: absolute;
+    margin-top: 5895px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou101{
+   
+    position: absolute;
+    margin-top: 5890px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+    
+ }
+ .kolou102{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou103{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou104{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou105{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou106{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou107{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 316px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou108{
+    position: absolute;
+    margin-top: 5890px;
+    margin-left: 361px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .rogot23{
+    position: absolute;
+    margin-top: 6060px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 22px; 
+ }
+ .text233{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 77px;
+ }
+ .dronr23{
+    font-size: 24px;
+    margin-left: 137px;
+    margin-top: 64px;
+    font-weight: 300;
+    position: absolute;
+ }
+ .rock23{
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 65px;
+    font-size: 32px;
+ }
+ .deni32{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 114px;
+ }
+ .denik233{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 114px;
+    margin-top: 232px;
+ }
+ .free323{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 165px;
+ }
+ .tire3324{
+    position: absolute;
+    margin-top: 292px;
+    margin-left: 165px;
+    font-size: 22px;
+ }
+ .pringle3242{
+    position: absolute;
+    margin-top: 6458px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou1011{
+   
+    position: absolute;
+    margin-top: 6450px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+    
+ }
+ .kolou1021{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1031{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou1041{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1051{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1061{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1071{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 316px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1081{
+    position: absolute;
+    margin-top: 6450px;
+    margin-left: 361px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .rogot232{
+    position: absolute;
+    margin-top: 6630px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 22px; 
+
+ }
+ .dronr23{
+    white-space: nowrap;
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 53px;
+    font-size: 24px;
+    font-weight: 300;
+ }
+ .text23334{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 36px;
+    white-space: nowrap;
+ }
+ .pringle3242134{
+    position: absolute;
+    margin-top: 7028px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 22px;
+ }
+ .kolou101123{
+   
+    position: absolute;
+    margin-top: 7020px;
+    width: 24px;
+    height: 24px;
+    margin-left: 43px;
+    
+ }
+ .kolou102123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 89px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou103123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 135px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou104123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 181px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou105123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 227px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou106123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 271px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou107123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 316px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou108123{
+    position: absolute;
+    margin-top: 7020px;
+    margin-left: 361px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .pocol{
+    position: absolute;
+    margin-top: 7200px;
+    margin-left: 12px;
+ }
+.telega{
+    position: absolute;
+    margin-top: 7300px;
+    margin-left: 12px;
+}
+.ivanova{
+   position: absolute;
+   margin-top: 7300px;
+   width: 290px;
+   height: 70px;
+  font-size: 25px;
+  margin-left: 98px;
+}
+ .random{
+    display: none;
+ }
+ .wraping{
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 7400px;
+    margin-left: 320px;
+ }
+ .nambelou{
+    position: absolute;
+    margin-top: 7400px;
+    margin-left: 12px;
+    width: 290px;
+   height: 70px;
+   background-color: #CFAA8E;
+   font-size: 25px;
+ }
+ .graving{
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 7500px;
+ }
+ .salor{
+    position: absolute;
+    margin-top: 7500px;
+    width: 290px;
+    height: 70px;
+   font-size: 25px;
+   margin-left: 98px;
+ }
+ .bog{
+    position: absolute;
+    width: 430px;
+    height: 255px;
+    margin-top: 7600px;
+ }
+.rodas{
+    position: absolute;
+    margin-left: 144px;
+    margin-top: 40px;
+}
+.homed{
+    position: absolute;
+    margin-left: 144px;
+    margin-top: 70px;
+}
+.copy{
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 127px;
+    font-size: 16px;
+}
+.all{
+    position: absolute;
+    margin-left: 98px;
+    margin-top: 127px;
+    font-size: 16px;
+}
+.didsa{
+    position: absolute;
+    margin-left: 267px;
+    margin-top: 129px;
+    font-size: 15px;
+    white-space: nowrap;
+}
+.gorod{
+    position: absolute;
+    margin-left: 49px;
+    margin-top: 191px;
+    font-size: 20px;
+}
+    }
